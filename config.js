@@ -1,17 +1,17 @@
-global.owner = ['6285842647866']  
-global.mods = ['6285842647866'] 
-global.prems = ['6285842647866']
-global.nameowner = 'Lann'
-global.numberowner = '6285842647866'
-global.mail = 'support@tioprm.eu.org' 
-global.gc = 'https://chat.whatsapp.com/G4f1fTpz9zL4EH3FyIcaPR'
-global.instagram = 'https://instagram.com/erlanrahmat_14'
-global.wm = '© Tio'
+global.owner = ['62877424664779']  
+global.mods = ['62877424664779'] 
+global.prems = ['62877424664779']
+global.nameowner = 'Chel'
+global.numberowner = '62877424664779'
+global.mail = 'im@cheliant.shop' 
+global.gc = 'https://chat.whatsapp.com/Kpk8DAnmkWU0CaKvNH6pSs'
+global.instagram = 'https://instagram.com/chel_hbs'
+global.wm = '© Chel Botz'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made With'
-global.author = 'Bot WhatsApp'
+global.author = 'Chel AI'
 global.maxwarn = '2' // Peringatan maksimum
 
 //INI WAJIB DI ISI!//
